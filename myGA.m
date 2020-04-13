@@ -1,5 +1,5 @@
-% Credit: codes developed in this project have been inspired by the following references:
-% [1] Pramanik, Niranjan, “Genetic Algorithm—explained step by step with example,” towardsdatascience.com, para. all, Sep. 9, 2019. [Online]. Available: https://towardsdatascience.com/genetic-algorithm-explained-step-by-step-65358abe2bf. [Accessed Nov. 19, 2019].
+% Credit: codes developed in this project inspired by the following reference(s):
+% [1] Pramanik, Niranjan, â€œGenetic Algorithmâ€”explained step by step with example,â€ towardsdatascience.com, para. all, Sep. 9, 2019. [Online]. Available: https://towardsdatascience.com/genetic-algorithm-explained-step-by-step-65358abe2bf. [Accessed Nov. 19, 2019].
 
 
 function [fxbest,xbest] = myGA(funchandle, xrange)
