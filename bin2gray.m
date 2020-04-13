@@ -1,5 +1,5 @@
-% Credit: codes developed in this project have been largely inspired by the following references:
-% ìGray Code in Matlab ñ from/to binary and decimal,î matrixlab-examples.com. [Online]. Available: http://www.matrixlab-examples.com/gray-code.html [Accessed Nov. 19, 2019].
+% Credit: codes developed in this project inspired by the following reference(s):
+% ‚ÄúGray Code in Matlab ‚Äì from/to binary and decimal,‚Äù matrixlab-examples.com. [Online]. Available: http://www.matrixlab-examples.com/gray-code.html [Accessed Nov. 19, 2019].
 % function originally manipulates one scalar in input / output
 % function modified to manipulate 2-D CELLS OF STRINGS of scalars
 % convert vector of signed binary values to vector of Gray code values
